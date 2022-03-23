@@ -1,8 +1,0 @@
-{
-  "desc": "A simple TLDR pages client",
-  "license": "MIT",
-  "name": "mt",
-  "ref": "refs/heads/main",
-  "url": "https://codeberg.org/eqf0/mt",
-  "version": "main"
-}
